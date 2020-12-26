@@ -37,7 +37,8 @@ const sr = ScrollReveal({
 sr.reveal('.home__title',{}); 
 sr.reveal('.button',{delay: 200}); 
 sr.reveal('.home__img',{delay: 400}); 
-sr.reveal('.home__social-icon',{ interval: 200}); 
+// sr.reveal('.home__social-icon',{ interval: 200}); 
+// sr.reveal('.theme-dot',{ interval: 200}); 
 
 /*SCROLL ABOUT*/
 sr.reveal('.about__img',{}); 
@@ -54,7 +55,6 @@ sr.reveal('.skills__img',{delay: 600});
 sr.reveal('.work__img',{interval: 200}); 
 
 /*SCROLL CONTACT*/
-sr.reveal('.contact__input',{interval: 200}); 
 
 
 
