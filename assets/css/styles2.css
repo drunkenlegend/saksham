@@ -606,6 +606,9 @@ img{
     .skills__container{
       margin-bottom: 40px;
     }
+    .skill_wrapper{
+      row-gap: 15px;
+    }
     .home_wrap{
       position: relative;
       align-items: center;
