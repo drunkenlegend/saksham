@@ -1,0 +1,15 @@
+:root{
+    --first-color: #15202B;
+    --second-color: #ffffff9d;
+    --themeDotBorder:#fff;
+    --background-col:#192734;
+    --text-col:  #6583a0;
+    --footer-color: #15202B ;
+    --nav-menu:#24292eee;
+    --shadow-col:#42586d59;
+    --title-col: #fff ;
+    --button-col:var(--title-col);
+    --button-txt: var(--first-color);
+    --skill-icon-col:var(--title-col);
+    
+  }

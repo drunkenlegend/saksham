@@ -1,0 +1,16 @@
+:root{
+    --first-color: #382a3f;
+    --second-color: #ffffff9d;
+    --themeDotBorder:#fff;
+    --background-col:#4c3953;
+    --text-col:  #bbacc0e7;
+    --footer-color: #382a3f ;
+    --nav-menu:#24292eee;
+    --title-col: #fff ;
+    --button-col:var(--title-col);
+    --button-txt: var(--first-color);
+    --shadow-col:var(--first-color);
+    --skill-icon-col:var(--title-col);
+
+
+  }
